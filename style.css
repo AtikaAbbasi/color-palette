@@ -1,0 +1,285 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    background-color: aqua;
+    margin: 0 auto;
+    width:650px ;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    border-radius: 30px 0 30px 0;
+
+}
+
+
+.box{
+  width:600px;
+  height: 100vh;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  margin: 0 auto;
+  background-image: url(https://png.pngtree.com/background/20210717/original/pngtree-watercolor-splash-funny-company-profile-picture-image_1441165.jpg);
+  background-size: cover;
+  
+}
+
+.shades1{
+position: relative;
+
+}
+
+h2{
+   
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: rgb(89, 32, 106);
+    
+}
+
+
+.pshade1, .pshade2, .pshade3,
+.pshade4, .pshade5, .pshade6,
+ .pshade7, .pshade8, .pshade9,
+ .pshade10
+ {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 1em;
+    position: absolute;
+    
+ }
+
+.pshade1{
+    background-color: pink;
+    left: 10%;
+    z-index: 1;
+}
+
+.pshade2{
+    background-color: rgb(220, 148, 160);
+    left: 18%;
+    z-index: 1;
+}
+
+
+.pshade3{
+    background-color: rgb(197, 121, 133);
+    left: 25%;
+    z-index: 1;
+}
+.pshade4{
+    background-color: rgb(174, 99, 110);
+    left: 32%;
+    z-index: 1;
+}
+.pshade5{
+    background-color: rgb(156, 81, 92);
+    left: 39%;
+    z-index: 1;
+}
+
+.pshade6{
+    background-color: rgb(125, 58, 68);
+    left: 47%;
+    z-index: 1;
+}
+.pshade7{
+    background-color: rgb(103, 44, 53);
+    left: 54%;
+    z-index: 1;
+}
+.pshade8{
+    background-color: rgb(86, 35, 42);
+    left: 61%;
+    z-index: 1;
+}
+.pshade9{
+    background-color: rgb(74, 28, 34);
+    left: 68%;
+    z-index: 1;
+}
+
+.pshade10{
+    background-color: rgb(46, 14, 19);
+    left: 75%;
+    z-index: 1;
+}
+
+
+.shades2{
+   margin: 8em 0 0 0;
+} 
+
+
+.shades2{
+    position: relative;
+    
+
+}
+
+.bshade1, .bshade2, .bshade3,
+ .bshade4, .bshade5, .bshade6, 
+.bshade7,  .bshade8, .bshade9,
+.bshade10
+{
+    width: 80px;
+    height: 80px;
+    margin-top: 1em;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.bshade1{
+    background-color:rgb(158, 197, 226) ;
+    z-index: 2;
+    left: 10%;
+}
+
+.bshade2{
+    background-color:rgb(137, 176, 206) ;
+    z-index: 2;
+    left: 17%;
+}
+
+.bshade3{
+    background-color:rgb(98, 144, 177) ;
+    z-index: 2;
+    left: 24%;
+}
+
+.bshade4{
+    background-color:rgb(69, 111, 140) ;
+    z-index: 2;
+    left: 31%;
+}
+
+.bshade5{
+    background-color:rgb(51, 90, 117) ;
+    z-index: 2;
+    left: 38%;
+}
+    
+  
+.bshade6{
+    background-color:rgb(36, 73, 99) ;
+    z-index: 2;
+    left: 46%;
+}
+      
+
+ 
+.bshade7{
+    background-color:rgb(27, 61, 86) ;
+    z-index: 2;
+    left: 54%;
+}
+     
+.bshade8{
+    background-color:rgb(19, 49, 70) ;
+    z-index: 2;
+    left: 61%;
+} 
+   
+.bshade9{
+    background-color:rgb(10, 35, 52) ;
+    z-index: 2;
+    left: 68%;
+} 
+
+.bshade10{
+    background-color:rgb(4, 20, 31) ;
+    z-index: 2;
+    left: 75%;
+} 
+
+
+
+.shades3{
+    position: relative;
+    margin-top: 8em;
+}
+
+.rshade1, .rshade2, .rshade3, 
+.rshade4, .rshade5, .rshade6, 
+.rshade7, .rshade8, .rshade9,
+.rshade10,
+
+.rshade1{
+    
+    width: 80px;
+    height: 80px;
+    margin-top: 1em;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.rshade1{
+    background-color: rgb(233, 140, 233);
+    z-index: 1;
+    left: 10%;
+}
+
+.rshade2{
+    background-color: rgb(194, 103, 194);
+    z-index: 3;
+    left: 17%;
+}
+
+.rshade3{
+    background-color: rgb(172, 84, 172);
+    z-index: 3;
+    left: 24%;
+}
+
+.rshade4{
+    background-color: rgb(151, 67, 151);
+    z-index: 3;
+    left: 31%;
+}
+
+
+.rshade5{
+    background-color: rgb(124, 46, 124);
+    z-index: 3;
+    left: 38%;
+}
+
+.rshade6{
+    background-color: rgb(95, 28, 95);
+    z-index: 3;
+    left: 45%;
+}
+
+.rshade7{
+    background-color: rgb(85, 19, 85);
+    z-index: 3;
+    left: 52%;
+}
+
+.rshade8{
+    background-color: rgb(75, 14, 75);
+    z-index: 3;
+    left: 60%;
+}
+
+.rshade9{
+    background-color: rgb(59, 9, 59);
+    z-index: 3;
+    left: 67%;
+}
+
+.rshade9{
+    background-color: rgb(59, 9, 59);
+    z-index: 3;
+    left: 67%;
+}
+
+.rshade10{
+    background-color: rgb(37, 3, 37);
+    z-index: 3;
+    left: 74%;
+}
+
